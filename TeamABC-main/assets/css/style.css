@@ -1,0 +1,18 @@
+body {
+  background-image: url("../images/filmstrip.png");
+  }
+
+#movie p {
+  font-size: 20px;
+           }
+
+
+
+#reviews p {
+  font-size: 20px;
+}
+
+.cust-fnt-sz {
+  font-size: 21px;
+}
+
